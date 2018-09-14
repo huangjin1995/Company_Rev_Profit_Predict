@@ -1,9 +1,9 @@
 # Company_Rev_Profit_Predict
 # 运行环境说明
-anaconda python3.6
-pandas
-tqdm
-numpy
+anaconda python3.6  
+pandas  
+tqdm  
+numpy  
 xgboost
 matplotlib
 # 股票市值获取：对于每只股票只取一个值即可
