@@ -40,5 +40,7 @@ matplotlib
 # 评价函数
 指标一：abs(y_pred, y_truth)/y_truth  
 指标二：  min(y_pred/y_truth, 0.8)*log(market_value)  
+# 运行文件
+文件名： demo.py  
 
 
